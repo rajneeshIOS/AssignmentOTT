@@ -1,0 +1,84 @@
+
+{
+    "hero": {
+        "id": "1",
+        "title": "Sintel",
+        "description": "A fantasy adventure film.",
+        "thumbnail_url": "https://media.w3.org/2010/05/sintel/poster.png",
+        "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+    },
+    "trending": [
+        {
+            "id": "2",
+            "title": "Big Buck Bunny",
+            "description": "An animated comedy adventure.",
+            "thumbnail_url": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+            "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+            "id": "3",
+            "title": "Sintel",
+            "description": "A fantasy adventure film.",
+            "thumbnail_url": "https://media.w3.org/2010/05/sintel/poster.png",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "6",
+            "title": "Tears of Steel",
+            "description": "A science-fiction short film.",
+            "thumbnail_url": "https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "7",
+            "title": "For Bigger Blazes",
+            "description": "An action-packed video demo.",
+            "thumbnail_url": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "8",
+            "title": "For Bigger Escape",
+            "description": "An adventurous video demo.",
+            "thumbnail_url": "https://media.w3.org/2010/05/sintel/poster.png",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        }
+    ],
+    "recommended": [
+        {
+            "id": "4",
+            "title": "Big Buck Bunny",
+            "description": "An animated comedy adventure.",
+            "thumbnail_url": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "5",
+            "title": "Sintel",
+            "description": "A fantasy adventure film.",
+            "thumbnail_url": "https://media.w3.org/2010/05/sintel/poster.png",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "9",
+            "title": "For Bigger Fun",
+            "description": "A fun entertainment video demo.",
+            "thumbnail_url": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "10",
+            "title": "For Bigger Joyrides",
+            "description": "An energetic driving video demo.",
+            "thumbnail_url": "https://media.w3.org/2010/05/sintel/poster.png",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        },
+        {
+            "id": "11",
+            "title": "For Bigger Meltdowns",
+            "description": "An action-style video demo.",
+            "thumbnail_url": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+            "video_url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+        }
+    ]
+}
